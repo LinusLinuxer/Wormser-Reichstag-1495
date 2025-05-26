@@ -27,10 +27,7 @@ def ocr_images_to_text(input_folder, output_file):
 
 
 # Provide the path to the folder containing images and the output text file
-input_folder = (
-    "OCR-Image/4_RKG"  # Replace with the name of your folder containing the images
-)
+input_folder = "OCR-Image/4_RKG"
 output_file = "data.txt"
-
 # Call the function
 ocr_images_to_text(input_folder, output_file)
