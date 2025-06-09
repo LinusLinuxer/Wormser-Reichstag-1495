@@ -1,4 +1,4 @@
-#!/home/linus/Dokumente/1_Universitaet/Bachelor/DB/VirtEnv/bin/python3
+#!/home/linus/Dokumente/1_Universitaet/Bachelor/DB/VirtEnv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
